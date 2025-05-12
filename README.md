@@ -2,9 +2,7 @@
 introduction
 
 # Data Structure
-Entitiy Relationship Diagram (ERD)
-(note: both preprocessed and processed)
-(image)
+![Entitiy Relationship Diagram](images/Cyclistic_ERD.png)
 
 # Executive Summary
 (overview of findings)
