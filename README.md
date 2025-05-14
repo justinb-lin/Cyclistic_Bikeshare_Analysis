@@ -10,11 +10,19 @@ Insights and recommendations are provided on the following key areas:
 - b
 - c
 
+dashboard [here.]()
+
+null [here.]()
+
+null [here.]()
 
 
 # Data Structure
+
 ![Entitiy Relationship Diagram](images/Cyclistic_ERD.png)
-The City of Chicago, in partnership with Lyft Bikes and Scooters, LLC, provides publicly available data for this analysis. The dataset adheres to usage terms, is anonymized to protect individual privacy, and is used solely for non-commercial and ethical purposes, with the relevant license provided [here]().
+The City of Chicago, in partnership with Lyft Bikes and Scooters, LLC, provides publicly available data for this analysis. The dataset adheres to usage terms, is anonymized to protect individual privacy, and is used solely for non-commercial and ethical purposes, with the relevant license provided [here.]()
+
+The processed dataset can be found [here.]()
 
 # Executive Summary
 (overview of findings)
