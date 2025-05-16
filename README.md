@@ -6,9 +6,11 @@ The project explores the behavioral differences between casual riders—those wh
 This project intends to uncover key insights and trends that will assist the marketing team by identifying critical aspects to prioritize in potential marketing strategies.
 
 Insights and recommendations are provided on the following key areas:
-- a
-- b
-- c
+- **Customer Behavior Analysis:** Evaluation of consumer behavior trends throughout the year, focusing on ride volume, seasonal usage, and duration of trips of casual riders and members.
+  
+- **Product/Service Usage Analysis:** Analysis of ride patterns for casual riders versus members, emphasizing product preference.
+  
+- **Time-of-Day and Day-of-Week Patterns:** Assessment of datetime riding patterns, focusing on time-of-day and weekday vs. weekend usage.
 
 dashboard [here.]()
 
@@ -30,11 +32,11 @@ The processed dataset can be found [here.]()
 (overview of findings)
 "mainly insights and focus stat sig!!!"
 
-**a:** "from Project Background"
+**Customer Behavior Analysis:** "from Project Background"
 
-**b:**
+**Product/Service Usage Analysis:**
 
-**c:**
+**Time-of-Day and Day-of-Week Patterns:**
 
 (trends)
 - quantified values
