@@ -22,7 +22,7 @@ report summary graphics [here.]()
 # Data Structure
 
 The Cyclistic dataset structure, shown below, retains essential fields for analysis while excluding personally identifiable information (PII). Additional time-related fields were derived to enable more detailed exploration of usage patterns.
-![Entitiy Relationship Diagram](images/Cyclistic_ERD.png)
+![Entitiy Relationship Diagram](images/Cyclistic_ERD.png
 The City of Chicago, in partnership with Lyft Bikes and Scooters, LLC, provides publicly available data for this analysis. The dataset adheres to usage terms, is anonymized to protect individual privacy, and is used solely for non-commercial and ethical purposes, with the relevant license provided [here.]()
 
 The processed dataset can be found [here.]()
@@ -35,6 +35,8 @@ Key findings indicate that casual riders take longer trips on average, though wi
 
 
 ### Customer Behavior Analysis: (target month graph)
+![Distribution of Riders by Month
+](images/distribution-riders-by-month.png)
 
 
 ### Product/Service Usage Analysis: (general table of preferred biketype by month)
