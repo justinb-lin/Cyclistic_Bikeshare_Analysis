@@ -14,9 +14,9 @@ Insights and recommendations are provided on the following key areas:
 
 dashboard [here.]()
 
-null [here.]()
+statistics [here.]()
 
-null [here.]()
+report summary graphics [here.]()
 
 
 # Data Structure
@@ -32,16 +32,12 @@ The processed dataset can be found [here.]()
 (overview of findings)
 "mainly insights and focus stat sig!!!"
 
-**Customer Behavior Analysis:** "from Project Background"
+**Customer Behavior Analysis:** (target month graph)
 
-**Product/Service Usage Analysis:**
+**Product/Service Usage Analysis:** (general table of preferred biketype by month)
 
-**Time-of-Day and Day-of-Week Patterns:**
+**Time-of-Day and Day-of-Week Patterns:** (graph/graphs) for time data
 
-(trends)
-- quantified values
-- business metrics
-- simple story ab historical trends
 
 (recommendations)
 
