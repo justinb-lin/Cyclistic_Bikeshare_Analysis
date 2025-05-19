@@ -36,13 +36,13 @@ Key findings indicate that casual riders take longer trips on average, though wi
 
 ### Customer Behavior Analysis: (target month graph)
 ![Distribution of Rides by Month](images/distribution-riders-by-month.png)
-
+statistics [here.]()
 
 ### Product/Service Usage Analysis: (general table of preferred biketype by month)
-
+statistics [here.]()
 
 ### Time-of-Day and Day-of-Week Patterns: (graph/graphs) for time data
-
+statistics [here.]()
 
 ## Recommendations:
 
