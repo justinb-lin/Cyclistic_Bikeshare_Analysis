@@ -35,14 +35,32 @@ Key findings indicate that casual riders take longer trips on average, though wi
 
 
 ### Customer Behavior Analysis: (target month graph)
+- key findings
+  
+- key findings
+  
+- key findings
+  
 ![Distribution of Rides by Month](images/distribution-riders-by-month.png)
 
 
 ### Product/Service Usage Analysis: (general table of preferred biketype by month)
+- key findings
+  
+- key findings
+  
+- key findings
 
+![image P/S]()
 
 ### Time-of-Day and Day-of-Week Patterns: (graph/graphs) for time data
+- key findings
+  
+- key findings
+  
+- key findings
 
+![image T&D]()
 
 ## Recommendations:
 
@@ -50,7 +68,7 @@ Based on the uncovered insights, the following recommendations have been provide
 
 - **Offer limited-time discounts or trial memberships** from **June to September**, when **casual ridership peaks at nearly 50%**, to drive conversions.
 
-- **Highlight cost savings for frequent riders** and promote **commuter benefits (e.g., “Skip Traffic, Save Time”)** to attract potential members.
+- To attract potential members, **Highlight cost savings for frequent riders** and promote **commuter benefits (e.g., “Skip Traffic, Save Time”)**.
 
 - **Use leisure-oriented messaging (e.g., “Ride More, Pay Less”)** to appeal to casual riders, who typically take longer trips in the **evenings and weekends**.
 
