@@ -12,11 +12,11 @@ Insights and recommendations are provided on the following key areas:
   
 - **Time-of-Day and Day-of-Week Patterns:** Assessment of datetime riding patterns, focusing on time-of-day and weekday vs. weekend usage.
 
-dashboard [here.]()
+dashboard [here.]
 
-statistics [here.]()
+statistics [here.]
 
-report summary graphics [here.]()
+report summary graphics [here.]
 
 
 # Data Structure
@@ -25,7 +25,7 @@ The Cyclistic dataset structure, shown below, retains essential fields for analy
 ![Entitiy Relationship Diagram](images/Cyclistic_ERD.png)
 The City of Chicago, in partnership with Lyft Bikes and Scooters, LLC, provides publicly available data for this analysis. The dataset adheres to usage terms, is anonymized to protect individual privacy, and is used solely for non-commercial and ethical purposes, with the relevant license provided [here.]()
 
-The processed dataset can be found [here.]()
+The processed dataset can be found [here.]
 
 # Executive Summary
 ### Overview of findings
@@ -34,30 +34,19 @@ This report analyzes Cyclistic’s 2024 bike usage trends, using data from Janua
 Key findings indicate that casual riders take longer trips on average, though with greater variation in ride duration, whereas Cyclistic members maintain more consistent trip lengths. Peak usage patterns also differ: casual ridership peaks at 5 PM, likely driven by leisure activities, while members show peak usage at both 8 AM and 5 PM, aligning with commuting trends. Additionally, ride durations increase on weekends, suggesting higher recreational use, and electric bikes are the preferred choice over classic bikes during these months.
 
 
-### Customer Behavior Analysis: (target month graph)
-- key findings
-  
-- key findings
-  
-- key findings
+### Customer Behavior Analysis:
+
+- Analysis showed that **casual riders represented a higher share of total rides between June and September** than in other months, highlighting a seasonal trend that can inform marketing and promotional strategies.
   
 ![Distribution of Rides by Month](images/distribution-riders-by-month.png)
 
 
 ### Product/Service Usage Analysis: (general table of preferred biketype by month)
 - key findings
-  
-- key findings
-  
-- key findings
 
 ![image P/S]()
 
 ### Time-of-Day and Day-of-Week Patterns: (graph/graphs) for time data
-- key findings
-  
-- key findings
-  
 - key findings
 
 ![image T&D]()
