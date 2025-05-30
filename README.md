@@ -37,19 +37,30 @@ Key findings indicate that casual riders take longer trips on average, though wi
 ### Customer Behavior Analysis:
 
 - Analysis showed that **casual riders represented a higher share of total rides between June and September** than in other months, highlighting a seasonal trend that can inform marketing and promotional strategies.
+
+- (Stat sig interpretation)
   
 ![Distribution of Rides by Month](images/distribution-riders-by-month.png)
+![Chi-square GOF test]
 
 
 ### Product/Service Usage Analysis: (general table of preferred biketype by month)
+
 - key findings
+
+- (Stat sig interpretation)
 
 ![image P/S]()
+![stat test]
 
 ### Time-of-Day and Day-of-Week Patterns: (graph/graphs) for time data
+
 - key findings
 
+- (Stat sig interpretation)
+
 ![image T&D]()
+![stat test]
 
 ## Recommendations:
 
