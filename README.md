@@ -50,8 +50,7 @@ Key findings indicate that casual riders take longer trips on average, though wi
 
 - However, statistical analysis indicates that **casual riders prefer electric bikes**, while **Cyclistic members are likelier to choose classic bikes**.
 
-![image P/S]()
-![stat test]()
+![image prefered bike type](images/barchart&stattest-preferedbiketype.png)
 
 ### Time-of-Day and Day-of-Week Patterns: (graph/graphs) for time data
 
