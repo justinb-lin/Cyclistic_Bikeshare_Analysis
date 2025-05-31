@@ -38,29 +38,26 @@ Key findings indicate that casual riders take longer trips on average, though wi
 
 - Analysis showed that **casual riders represented a higher share of total rides between June and September** than in other months, highlighting a seasonal trend that can inform marketing and promotional strategies.
 
-- (Stat sig interpretation)
+- Rider activity in 2024 showed **significant monthly differences between casual and member users**, with Chi-Square tests confirming that **usage was not evenly split in any month** (p < 0.05).
   
 ![Distribution of Rides by Month](images/distribution-riders-by-month.png)
-![Chi-square GOF test]
+![Chi-square GOF test](images/chi-square-test-membershiptype.png)
 
 
-### Product/Service Usage Analysis: (general table of preferred biketype by month)
+### Product/Service Usage Analysis:
 
-- key findings
+- Electric bikes were preferred by casual riders and Cyclistic members, especially during summer.
 
-- (Stat sig interpretation)
+- However, statistical analysis indicates that **casual riders prefer electric bikes**, while **Cyclistic members are likelier to choose classic bikes**.
 
 ![image P/S]()
-![stat test]
+![stat test]()
 
 ### Time-of-Day and Day-of-Week Patterns: (graph/graphs) for time data
 
-- key findings
-
-- (Stat sig interpretation)
+- **Casual riders are most active at 5 PM**, whereas **Cyclistic members show two daily peaks—at 8 AM and 5 PM**—indicating a mix of commuting and recreational use.
 
 ![image T&D]()
-![stat test]
 
 ## Recommendations:
 
