@@ -12,11 +12,11 @@ Insights and recommendations are provided on the following key areas:
   
 - **Time-of-Day and Day-of-Week Patterns:** Assessment of datetime riding patterns, focusing on time-of-day and weekday vs. weekend usage.
 
-dashboard [here.]
+data [here.](2024_Cyclisticdata)
 
-statistics [here.]
+report [here.](2024Cyclistic_report.pdf)
 
-report summary graphics [here.]
+log [here.](Cyclistic_Documents/Cyclistic_Capstone_Project_(Log).pdf)
 
 
 # Data Structure
