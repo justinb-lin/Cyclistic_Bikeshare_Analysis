@@ -23,9 +23,9 @@ log [here.](Cyclistic_Documents/Cyclistic_Capstone_ProjectLog.pdf)
 
 The Cyclistic dataset structure, shown below, retains essential fields for analysis while excluding personally identifiable information (PII). Additional time-related fields were derived to enable more detailed exploration of usage patterns.
 ![Entitiy Relationship Diagram](images/Cyclistic_ERD.png)
-The City of Chicago, in partnership with Lyft Bikes and Scooters, LLC, provides publicly available data for this analysis. The dataset adheres to usage terms, is anonymized to protect individual privacy, and is used solely for non-commercial and ethical purposes, with the relevant license provided [here.]()
+The City of Chicago, in partnership with Lyft Bikes and Scooters, LLC, provides publicly available data for this analysis. The dataset adheres to usage terms, is anonymized to protect individual privacy, and is used solely for non-commercial and ethical purposes, with the relevant license provided [here.](Cyclistic_Documents/Data_License_Agreement_Divvy_Bikes.png)
 
-The processed dataset can be found [here.]
+
 
 # Executive Summary
 ### Overview of findings
