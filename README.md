@@ -16,7 +16,7 @@ data [here.](2024_Cyclisticdata)
 
 report [here.](Cyclistic_Documents/2024Cyclistic_report.pdf)
 
-log [here.](Cyclistic_Documents/Cyclistic Capstone Project (Log).pdf)
+log [here.](Cyclistic_Documents/Cyclistic_Capstone_ProjectLog.pdf)
 
 
 # Data Structure
