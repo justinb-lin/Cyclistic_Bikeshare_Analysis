@@ -14,9 +14,9 @@ Insights and recommendations are provided on the following key areas:
 
 data [here.](2024_Cyclisticdata)
 
-report [here.](2024Cyclistic_report.pdf)
+report [here.](Cyclistic_Documents/2024Cyclistic_report.pdf)
 
-log [here.](Cyclistic_Documents/Cyclistic_Capstone_Project_(Log).pdf)
+log [here.](Cyclistic_Documents/Cyclistic Capstone Project (Log).pdf)
 
 
 # Data Structure
