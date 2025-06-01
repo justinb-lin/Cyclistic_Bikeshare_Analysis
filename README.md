@@ -12,11 +12,11 @@ Insights and recommendations are provided on the following key areas:
   
 - **Time-of-Day and Day-of-Week Patterns:** Assessment of datetime riding patterns, focusing on time-of-day and weekday vs. weekend usage.
 
-data [here.](2024_Cyclisticdata)
+The Dataset can be found [here.](2024_Cyclisticdata)
 
-report [here.](Cyclistic_Documents/2024Cyclistic_report.pdf)
+The report can be found [here.](Cyclistic_Documents/2024Cyclistic_report.pdf)
 
-log [here.](Cyclistic_Documents/Cyclistic_Capstone_ProjectLog.pdf)
+The activity log can be found [here.](Cyclistic_Documents/Cyclistic_Capstone_ProjectLog.pdf)
 
 
 # Data Structure
@@ -28,6 +28,7 @@ The City of Chicago, in partnership with Lyft Bikes and Scooters, LLC, provides 
 
 
 # Executive Summary
+
 ### Overview of findings
 This report analyzes Cyclistic’s 2024 bike usage trends, using data from January to December, with a focus on June through September—the months when casual riders accounted for nearly 50% of total rides, the highest balance observed throughout the year.
 
@@ -52,7 +53,7 @@ Key findings indicate that casual riders take longer trips on average, though wi
 
 ![image prefered bike type](images/barchart&stattest-preferedbiketype.png)
 
-### Time-of-Day and Day-of-Week Patterns: (graph/graphs) for time data
+### Time-of-Day and Day-of-Week Patterns:
 
 - **Casual riders are most active at 5 PM**, whereas **Cyclistic members show two daily peaks—at 8 AM and 5 PM**—indicating a mix of commuting and recreational use.
 
