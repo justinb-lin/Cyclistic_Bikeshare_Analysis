@@ -56,7 +56,7 @@ Key findings indicate that casual riders take longer trips on average, though wi
 
 - **Casual riders are most active at 5 PM**, whereas **Cyclistic members show two daily peaks—at 8 AM and 5 PM**—indicating a mix of commuting and recreational use.
 
-![image T&D]()
+![peak ride times graphic](images/barchart-ridepeak.png)
 
 ## Recommendations:
 
